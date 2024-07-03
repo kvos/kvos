@@ -7,9 +7,7 @@
 <a href="https://scholar.google.com.au/citations?user=Ne9dT2kAAAAJ&hl=fr"><img src="https://img.shields.io/badge/Google-Scholar-blue" alt="Google Scholar"></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I'm a Remote Sensing Scientist at the Water division of the [NSW Department of Planning and Environment](https://www.dpie.nsw.gov.au/water). I have a PhD from the [Water Research Laboratory](https://www.wrl.unsw.edu.au/), [University of New South Wales](https://www.unsw.edu.au/). My interest is in satellite remote sensing for Earth sciences, development of webGIS applications and machine learning classification/regression problems. I mainly code in Python and use big data cloud computing platforms (like Google Earth Engine) to extract useful data from publicly available satellite imagery. 
-
-I enjoy developing open-source remote sensing tools and creating web applications to visualise geospatial data. I also have experience as a data scientist solving regression/classification machine learning problems and decision making problems with reinforcement learning (Pytorch/Tensorflow).
+I'm a data scientist/software developer/academic researcher working on projects in remote sensing, machine learning and ocean sciences. My interest is in satellite remote sensing for Earth sciences, development of webGIS applications and machine learning classification/regression problems. I mainly code in Python and use big data cloud computing platforms (like Google Cloud Platform, Google Earth Engine) to extract useful data from publicly available satellite imagery. I also have experience as a data scientist solving regression/classification machine learning problems and Markov decision processes with reinforcement learning (Pytorch/Tensorflow).
 
 More info about my research and projects can be found on my [personal website](https://kvos.github.io/).
 
