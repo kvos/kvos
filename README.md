@@ -16,6 +16,7 @@ More info about my research and projects can be found on my [personal website](h
 ## Open-source projects
 
 - [Coastsat](https://github.com/kvos/CoastSat): global shoreline mapping toolbox from publicly available satellite imagery with Google Earth Engine
+- [EOWater](https://github.com/ShiruiH/EOWater): efficient cloud computing workflow to retrieve water surface area time-series with Google Earth Engine
 - [Coastsat webGIS portal](http://coastsat.wrl.unsw.edu.au/): interactive webGIS portal to explore large-scale coastal change data
 - [CoastSat.slope](https://github.com/kvos/CoastSat.slope): beach slope estimation from satellite-derived shorelines and tide models
 - [SDS_Benchmark](https://github.com/SatelliteShorelines/SDS_Benchmark): benchmarking platform for satellite-derived shoreline algorithms
